@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Pariwisata" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/gold</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="bottom_nav" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="backgroundTint">@null</item>
+        <item name="elevation">0dp</item>
+        <item name="android:background">@color/transparent</item>
+    </style>
+</resources>

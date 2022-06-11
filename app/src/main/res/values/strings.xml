@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">pariwisata</string>
+    <string name="login_title">Ayo keliling Banten</string>
+    <string name="login_subtitle">Jalan-jalan bareng keluarga, pasangan, teman, mantan atau selingkuhan keliling Banten</string>
+    <string name="login_hint_username">Masukan username</string>
+    <string name="login_hint_password">Masukan password</string>
+    <string name="login_hint_email">Masukan email</string>
+    <string name="login_to_register_title">Anda belum punya account ?</string>
+    <string name="login_to_register">Buat Akun</string>
+    <string name="register_to_login">Masuk</string>
+
+    <string name="register_title">Buat akun baru</string>
+    <string name="register_to_login_title">Sudah punya account ?</string>
+    <string name="register_subtitle">Kita buat account dulu yuk biar jalan-jalan nya seru</string>
+
+    <!--  Button Text  -->
+    <string name="button_masuk">Masuk</string>
+    <string name="button_daftar">Daftar</string>
+
+    <!--  Menu Name  -->
+    <string name="destination">Destination</string>
+    <string name="favorite">Favorite</string>
+
+    <!--  Icon Description  -->
+    <string name="searching">searching</string>
+    <string name="icon">icon</string>
+
+    <!--  Title  -->
+    <string name="recomended">Recomendasi</string>
+    <string name="terbaru">Terbaru</string>
+    <string name="lihat_semua">lihat semua</string>
+</resources>
